@@ -1,7 +1,7 @@
 # chromaRAG
-RAG from scratch: 从零开始构建检索增强生成项目：embedding + chroma + LLM + chromadb backend 
-![](assets/Bottom_up.svg)
 
+![](assets/Bottom_up.svg)
+RAG from scratch: 从零开始构建检索增强生成项目：embedding + chroma + LLM + chromadb backend 
 ### Hi there 👋
 <!--   my-icons -->
 <p align="center">
