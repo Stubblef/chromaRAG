@@ -12,7 +12,7 @@ RAG from scratch: 从零开始构建检索增强生成项目：embedding + chrom
     <a href="https://github.com/Stubblef/chromaRAG/network/members"><img src="https://img.shields.io/github/forks/Stubblef/chromaRAG.svg?color=blue&logo=github"></a>  
 </p>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stubblef&show_icons=true&theme=github-compact" /> </div>
+
 😄 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Stubblef/chromaRAG&type=Date)](https://star-history.com/#Stubblef/chromaRAG&Date)
