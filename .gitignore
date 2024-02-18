@@ -2,5 +2,6 @@
 
 # 忽略本地配置文件
 .env
-
+./data
+./data/persist
 
