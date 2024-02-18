@@ -1,2 +1,1 @@
-
-from webui.chromaClient import ChromaClient
+from db_server.chromaClient import ChromaClient
