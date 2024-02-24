@@ -18,7 +18,7 @@ st.markdown(""" <style>
             unsafe_allow_html=True)
 ############
 
-st.title("Chroma backend 👀")
+st.title("ChromaRAG 👀")
 
 # get uri of the persist directory
 path = "../data/persist"

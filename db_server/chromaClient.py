@@ -34,11 +34,11 @@ class ChromaClient:
         if isinstance(document, str):
             document = [document]
         if metadatas is None:
-            metadatas = [0 for _ in range(len(document))]
+            metadatas = [{"source":s} for s in range(len(document))]
         if ids is None:
-            ids = [None for _ in range(len(document))]
+            ids = [f"00{n}" for n in range(len(document))]
         collection_insert = self.chroma_client.get_collection(collection)
-        print(document, metadatas, ids)
-        return collection_insert.add(document, metadatas, ids)
+        print("989999999888",ids)
+        return collection_insert.add(ids=ids,documents=document, metadatas=metadatas)
 
 
