@@ -54,3 +54,9 @@ if not(path==""):
 
 else:
     st.subheader("Enter Valid Full Persist Path")
+
+
+# streamlit run webui/webpeek.py --server.port 8000 --theme.base light
+if __name__ == "__main__":
+    import subprocess
+    subprocess.run(["streamlit", "run", "webui/webpeek.py", "--server.port", "8000", "--theme.base", "light"])
