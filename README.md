@@ -19,7 +19,15 @@ RAG from scratch: 从零开始构建检索增强生成项目：embedding + chrom
 
 ## REACHME
 - 📫 How to reach me: tsing967@gmail.com
-- 💬 wechat ![](assets/wechat.jpg)
+<!-- - 💬 wechat ![](assets/wechat.jpg) -->
+- 💬 wechat <img src="assets/wechat.jpg" alt="WeChat QR Code" style="max-width: 200px; height: auto;">
+
+<!-- ## REACHME
+
+- 📫 如何联系我：tsing967@gmail.com
+
+- 💬 微信：
+   <img src="assets/wechat.jpg" alt="WeChat QR Code" style="max-width: 200px; height: auto;"> -->
 
 <!--
 **Stubblef/chromaRAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
