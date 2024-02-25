@@ -21,13 +21,13 @@ RAG from scratch: ：embedding + chroma + LLM + chromadb backend
 [![Star History Chart](https://api.star-history.com/svg?repos=Stubblef/chromaRAG&type=Date)](https://star-history.com/#Stubblef/chromaRAG&Date)
 
 ## REACHME
-- 📫 How to reach me: tsing967@gmail.com
+<!-- - 📫 How to reach me: tsing967@gmail.com -->
 <!-- - 💬 wechat ![](assets/wechat.jpg) -->
 
-- 💬 wechat <img src="assets/wechat.jpg" alt="WeChat QR Code" style="max-width: 2px; height: auto;">
+<!-- - 💬 wechat <img src="assets/wechat.jpg" alt="WeChat QR Code" style="max-width: 2px; height: auto;"> -->
 <p align="center">
-  <img src="assets/wechat.jpg" width="40" height="20">
-  <img src="https://example.com/image2.jpg" width="40" height="20">
+  <img src="assets/wechat.jpg" width="400" height="200">
+  <img src="assets/wepay.jpg" width="400" height="200">
 </p>
 
 <!-- ## REACHME
