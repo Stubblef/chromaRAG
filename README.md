@@ -1,6 +1,6 @@
 # chromaRAG
 
-![](assets/Bottom_up.svg)
+<!-- ![](assets/Bottom_up.svg) -->
 RAG from scratch: ：embedding + chroma + LLM + chromadb backend 
 <!-- 从零开始构建检索增强生成项目 -->
 ### Hi there 👋
