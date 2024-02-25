@@ -27,6 +27,7 @@ RAG from scratch: ：embedding + chroma + LLM + chromadb backend
 <!-- - 💬 wechat <img src="assets/wechat.jpg" alt="WeChat QR Code" style="max-width: 2px; height: auto;"> -->
 <p align="center">
   <img src="assets/wechat.jpg" width="300" height="400" style="margin-right: 200px">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/wepay.jpg" width="300" height="400">
 </p>
 
