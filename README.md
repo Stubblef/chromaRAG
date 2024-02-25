@@ -1,7 +1,8 @@
 # chromaRAG
 
 ![](assets/Bottom_up.svg)
-RAG from scratch: 从零开始构建检索增强生成项目：embedding + chroma + LLM + chromadb backend 
+RAG from scratch: ：embedding + chroma + LLM + chromadb backend 
+<!-- 从零开始构建检索增强生成项目 -->
 ### Hi there 👋
 <!--   my-icons -->
 <p align="center">
@@ -22,6 +23,7 @@ RAG from scratch: 从零开始构建检索增强生成项目：embedding + chrom
 ## REACHME
 - 📫 How to reach me: tsing967@gmail.com
 <!-- - 💬 wechat ![](assets/wechat.jpg) -->
+
 - 💬 wechat <img src="assets/wechat.jpg" alt="WeChat QR Code" style="max-width: 2px; height: auto;">
 
 <!-- ## REACHME
