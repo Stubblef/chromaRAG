@@ -12,6 +12,8 @@ RAG from scratch: 从零开始构建检索增强生成项目：embedding + chrom
     <a href="https://github.com/Stubblef/chromaRAG/network/members"><img src="https://img.shields.io/github/forks/Stubblef/chromaRAG.svg?color=blue&logo=github"></a>  
 </p>
 
+## Getting Started
+    ... ...
 
 😄 Star History
 
