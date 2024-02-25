@@ -16,6 +16,11 @@ RAG from scratch: 从零开始构建检索增强生成项目：embedding + chrom
 😄 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Stubblef/chromaRAG&type=Date)](https://star-history.com/#Stubblef/chromaRAG&Date)
+
+## REACHME
+- 📫 How to reach me: tsing967@gmail.com
+- 💬 wechat ![](assets/Bottom_up.svg)
+
 <!--
 **Stubblef/chromaRAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
