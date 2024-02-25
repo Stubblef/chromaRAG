@@ -12,7 +12,7 @@ print(rescc.get("documents"))
 
 # Modify OpenAI's API key and API base to use vLLM's API server.
 openai_api_key = "EMPTY"
-openai_api_base = "http://60.190.249.69:8000/v1/"
+openai_api_base = "http://localhost:8000/v1/"
 client = OpenAI(
     api_key=openai_api_key,
     base_url=openai_api_base,
