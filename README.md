@@ -1,4 +1,4 @@
-
+<!-- ![](assets/Bottom_up.svg) -->
 # chromaRAG
 
 <p align="center">
@@ -9,10 +9,11 @@
     <a href="https://github.com/Stubblef/chromaRAG/network/members"><img src="https://img.shields.io/github/forks/Stubblef/chromaRAG.svg?color=blue&logo=github"></a>  
 </p>
 
-<!-- ![](assets/Bottom_up.svg) -->
-RAG from scratch: ：embedding + chroma + LLM + chromadb backend 
+
+
 <!-- 从零开始构建检索增强生成项目 -->
 ### Hi there 👋
+RAG from scratch: ：embedding + chroma + LLM + chromadb backend 
 <!--   my-icons -->
 
 ## Getting Started
