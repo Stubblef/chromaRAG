@@ -1,10 +1,6 @@
+
 # chromaRAG
 
-<!-- ![](assets/Bottom_up.svg) -->
-RAG from scratch: ：embedding + chroma + LLM + chromadb backend 
-<!-- 从零开始构建检索增强生成项目 -->
-### Hi there 👋
-<!--   my-icons -->
 <p align="center">
     <a href="https://github.com/Stubblef/chromaRAG"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
@@ -12,6 +8,12 @@ RAG from scratch: ：embedding + chroma + LLM + chromadb backend
     <a href="https://github.com/Stubblef/chromaRAG/stargazers"><img src="https://img.shields.io/github/stars/Stubblef/chromaRAG.svg?logo=github"></a>
     <a href="https://github.com/Stubblef/chromaRAG/network/members"><img src="https://img.shields.io/github/forks/Stubblef/chromaRAG.svg?color=blue&logo=github"></a>  
 </p>
+
+<!-- ![](assets/Bottom_up.svg) -->
+RAG from scratch: ：embedding + chroma + LLM + chromadb backend 
+<!-- 从零开始构建检索增强生成项目 -->
+### Hi there 👋
+<!--   my-icons -->
 
 ## Getting Started
     ... ...
