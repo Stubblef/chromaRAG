@@ -19,7 +19,7 @@ RAG from scratch: 从零开始构建检索增强生成项目：embedding + chrom
 
 ## REACHME
 - 📫 How to reach me: tsing967@gmail.com
-- 💬 wechat ![](assets/Bottom_up.svg)
+- 💬 wechat ![](assets/wechat.jpg)
 
 <!--
 **Stubblef/chromaRAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
